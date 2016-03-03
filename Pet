@@ -24,7 +24,7 @@ public class PetMaster{
     myPet.eat();
     petReaction=myPet.talk("Tweet!! Tweet!!");
     System.out.println("petReaction");
-    myPet.Sleep(); //I’m so hungry,let me have a snack like nachos! OK!! OK!! Tweet!! Tweet!! Good night, see you tomorrow!
+    myPet.Sleep(); //Im so hungry,let me have a snack like nachos! OK!! OK!! Tweet!! Tweet!! Good night, see you tomorrow!
   }
 }
 
