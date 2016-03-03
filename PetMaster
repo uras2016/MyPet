@@ -1,0 +1,10 @@
+public class PetMaster{
+  public static void main(String[] args){
+    String petReaction;
+    Pet myPet=new Pet();
+    myPet.eat();
+    petReaction=myPet.talk("Tweet!! Tweet!!");
+    System.out.println("petReaction");
+    myPet.Sleep(); //Im so hungry,let me have a snack like nachos! OK!! OK!! Tweet!! Tweet!! Good night, see you tomorrow!
+  }
+}
